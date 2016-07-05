@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://down.58y.com/download/app/jcby_ios.ipa</string>
+					<string>http://down.58y.com/download/app/jcby_ios.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://down.58y.com/download/app/image/jcby_57.png</string>
+					<string>http://down.58y.com/download/app/image/jcby_57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://down.58y.com/download/app/image/jcby_512.jpg</string>
+					<string>http://down.58y.com/download/app/image/jcby_512.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>

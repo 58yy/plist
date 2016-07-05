@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://down.58y.com/download/app/image/dsnh_57.png</string>
+					<string>https://down.58y.com/download/app/image/icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://down.58y.com/download/app/image/dsnh_512.jpg</string>
+					<string>https://down.58y.com/download/app/image/icon@2x.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
